@@ -3,7 +3,7 @@ import os
 
 
 class IlmBaseConan(ConanFile):
-    name = "IlmBase"
+    name = "ilmbase"
     description = "IlmBase is a component of OpenEXR. OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications."
     version = "2.2.0"
     license = "BSD"
